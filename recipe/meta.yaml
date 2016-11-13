@@ -1,6 +1,6 @@
 {% set name = "build_capi" %}
-{% set version = "1.1.0" %}
-{% set sha256 = "b060489348a76bf3677dc8081296a2b7ab76ea7eed47852f00370cae8c0ae0a5" %}
+{% set version = "1.1.6" %}
+{% set sha256 = "b84a689fa45557ece4f5b3167a552c7420b6c3b0226046c7950e80bb861b3fcb" %}
 
 package:
   name: {{ name|lower }}
